@@ -64,7 +64,6 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0
 	github.com/json-iterator/go v1.1.12
 	github.com/jung-kurt/gofpdf v1.16.2
-	github.com/laher/mergefs v0.1.1
 	github.com/lib/pq v1.10.4
 	github.com/linkedin/goavro/v2 v2.10.0
 	github.com/m3db/prometheus_remote_client_golang v0.4.4
@@ -101,7 +100,7 @@ require (
 	go.opentelemetry.io/otel/exporters/jaeger v1.0.0
 	go.opentelemetry.io/otel/sdk v1.6.3
 	go.opentelemetry.io/otel/trace v1.6.3
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
+	golang.org/x/crypto v0.0.0-20220511200225-c6db032c6c88
 	golang.org/x/exp v0.0.0-20210220032938-85be41e4509f
 	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a
@@ -125,7 +124,7 @@ require (
 )
 
 require (
-	github.com/Azure/azure-sdk-for-go/sdk/internal v0.9.1 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/internal v1.0.0 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest/date v0.3.0 // indirect
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
@@ -240,8 +239,8 @@ require (
 
 require (
 	cloud.google.com/go/kms v1.4.0
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v0.13.2
-	github.com/Azure/azure-sdk-for-go/sdk/keyvault/azkeys v0.4.0
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.0.0
+	github.com/Azure/azure-sdk-for-go/sdk/keyvault/azkeys v0.5.1
 	github.com/Azure/go-autorest/autorest/adal v0.9.17
 	github.com/armon/go-radix v1.0.0
 	github.com/blugelabs/bluge v0.1.9
@@ -270,8 +269,8 @@ require (
 require (
 	cloud.google.com/go/compute v1.5.0 // indirect
 	cloud.google.com/go/iam v0.3.0 // indirect
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v0.22.0 // indirect
-	github.com/Azure/azure-sdk-for-go/sdk/keyvault/internal v0.2.1 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.0.0 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/keyvault/internal v0.5.0 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v0.4.0 // indirect
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/RoaringBitmap/roaring v0.9.1 // indirect
